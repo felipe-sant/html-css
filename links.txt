@@ -1,6 +1,0 @@
-Playlist completa: 
-- https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
-
-Github:
-- https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf
-- https://gustavoguanabara.github.io
