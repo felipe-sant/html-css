@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body#cinza {
+    background-color: lightgray;
+}
+
+body#amarela {
+    background-color: #ffffe3;
+    color: #c3884b;
+}
+
+body#verde {
+    background-color: #a6eb9a;
+    color: #2a6218;
+}

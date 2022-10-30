@@ -1,0 +1,1 @@
+start https://emojipedia.org
